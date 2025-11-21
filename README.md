@@ -21,3 +21,14 @@ The Event Management System allows users to register for events, view event deta
 **Project Management:** Basecamp  
 
 ## 📂 Project Structure
+frontend/ -> UI files
+backend/ -> Server-side code
+docs/ -> Project documentation, diagrams
+README.md -> Project overview
+
+
+## 📥 Setup Instructions
+git clone <your-repo-link>
+cd project-folder
+Install dependencies
+Run the project
